@@ -1,0 +1,7 @@
+const cookieHandler = {};
+
+
+
+
+
+export { cookieHandler };
