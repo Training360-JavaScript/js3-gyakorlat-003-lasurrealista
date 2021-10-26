@@ -4,4 +4,4 @@ const cookieHandler = {};
 
 
 
-export { cookieHandler };
+cookieHandler;

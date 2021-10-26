@@ -4,4 +4,4 @@ const setCookie = () => {};
 
 
 
-export default setCookie;
+setCookie;
